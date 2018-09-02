@@ -1,0 +1,6 @@
+#ignore log
+*.log
+#ignore *.pyc
+*.pyc
+#Mac junk
+.DS_Store
